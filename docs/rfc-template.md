@@ -1,0 +1,67 @@
+# Template RFC Interno
+
+> Use este template como base para preencher `docs/rfc-001.md`.
+
+## RFC-[número]: [título da proposta]
+
+- **Status:** Proposto | Em análise | Aprovado | Rejeitado | Substituído
+- **Data:** AAAA-MM-DD
+- **Autores:**
+- **Stakeholders:**
+
+## Metadados de Governança
+- Documento:
+- Versão:
+- Responsável (owner):
+- Aprovador:
+- Última atualização:
+- Próxima revisão:
+- Classificação da informação: Interna | Restrita | Confidencial
+
+## Premissas, Lacunas e Riscos (preenchimento obrigatório)
+- Premissas (o que está sendo assumido para elaborar o documento):
+- Lacunas de informação (dados ausentes que impactam o detalhamento):
+- Riscos identificados (inclua impacto e mitigação sugerida):
+
+
+## 1. Resumo Executivo
+- Problema principal:
+- Mudança proposta:
+- Resultado esperado:
+
+## 2. Contexto e Problema
+- Cenário atual:
+- Dor de negócio/técnica:
+- Limitações existentes:
+
+## 3. Objetivos e Não Objetivos
+- Objetivos:
+- Não objetivos:
+
+## 4. Escopo e Impacto
+- Sistemas/equipes impactados:
+- Dependências:
+- Impacto operacional esperado:
+
+## 5. Alternativas Consideradas
+| Alternativa | Vantagens | Desvantagens | Impacto | Decisão |
+|---|---|---|---|---|
+|   |   |   |   |   |
+
+## 6. Proposta Recomendada
+Descreva a proposta final com justificativa técnica e de negócio.
+
+## 7. Plano de Adoção (conceitual)
+- Etapas:
+- Critérios de entrada/saída:
+- Estratégia de rollback:
+
+## 8. Critérios de Sucesso
+- Métricas de sucesso:
+- Indicadores de risco:
+- Evidências esperadas:
+
+## 9. Decisões Pendentes e Aprovação
+- Pontos em aberto:
+- Responsáveis por decisão:
+- Data alvo de aprovação:
